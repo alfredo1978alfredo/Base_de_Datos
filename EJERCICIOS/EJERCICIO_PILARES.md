@@ -29,5 +29,5 @@ Cuál es el promedio de PILARES por alcaldía
 
 Realiza una presentación con los datos que consideres relevantes realizando un anális de esta base.
 
-
-
+ESTA ES LA BASE DATOS CREADA EN CLASE EL DIA 20 DE MAYO DE 2023
+https://www.db-fiddle.com/f/hzp5QsiJsdDk3pTXJ7x6Rj/1
