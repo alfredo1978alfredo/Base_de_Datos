@@ -31,3 +31,7 @@ Realiza una presentación con los datos que consideres relevantes realizando un 
 
 ESTA ES LA BASE DATOS CREADA EN CLASE EL DIA 20 DE MAYO DE 2023
 https://www.db-fiddle.com/f/hzp5QsiJsdDk3pTXJ7x6Rj/1
+
+
+ESTA ES LA BASE DE DATOS CREADA EN CLASE EL DIA 27 DE MAYO DE 2023
+https://www.db-fiddle.com/f/hzp5QsiJsdDk3pTXJ7x6Rj/2
