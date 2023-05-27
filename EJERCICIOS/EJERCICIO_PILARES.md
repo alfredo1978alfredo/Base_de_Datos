@@ -35,3 +35,7 @@ https://www.db-fiddle.com/f/hzp5QsiJsdDk3pTXJ7x6Rj/1
 
 ESTA ES LA BASE DE DATOS CREADA EN CLASE EL DIA 27 DE MAYO DE 2023
 https://www.db-fiddle.com/f/hzp5QsiJsdDk3pTXJ7x6Rj/2
+
+
+ESTE ES LA BASE DE DATOS DEL EJERICCIO 6 DE LA CREACION DE BASE DE DATOS DE LA SEMANA 2
+https://www.db-fiddle.com/f/2EtEWrfYyGZ5NjG5ncPKDp/0
