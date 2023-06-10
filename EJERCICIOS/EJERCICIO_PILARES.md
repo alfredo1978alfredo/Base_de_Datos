@@ -50,7 +50,8 @@ ESTE EJERCICIO DE BASE DE DATOS TIENE LOS TRIGGER:
 https://www.db-fiddle.com/f/hzp5QsiJsdDk3pTXJ7x6Rj/6
 
 PROYECTO FINAL BASE DE DATOS 10 DE JUNIO DE 2023
-![image](https://github.com/alfredo1978alfredo/Base_de_Datos/assets/119713481/4c344ce0-e2d7-4893-8632-2334738e4dee)
+[Proyecto final.pdf](https://github.com/alfredo1978alfredo/Base_de_Datos/files/11713281/Proyecto.final.pdf)
+
 
 
 
