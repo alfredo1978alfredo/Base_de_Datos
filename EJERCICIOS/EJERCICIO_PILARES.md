@@ -49,6 +49,5 @@ https://www.db-fiddle.com/f/xhps5RAu5tFNTynzE27NPW/1
 ESTE EJERCICIO DE BASE DE DATOS TIENE LOS TRIGGER:
 https://www.db-fiddle.com/f/hzp5QsiJsdDk3pTXJ7x6Rj/6
 
-![image](https://github.com/alfredo1978alfredo/Base_de_Datos/assets/119713481/c93495aa-293b-4561-a457-7691b0cb895b)
 
 
